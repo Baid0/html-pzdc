@@ -1,0 +1,18 @@
+.item {
+    width: 600px;
+    height: 150px;
+    background-color: aquamarine;
+    transform: scale(0.9);
+    border-color: gray;
+    border: dashed;
+    border-width: 5px;
+}
+
+
+#green {
+    color: green;
+}
+
+#red {
+    color: red;
+}

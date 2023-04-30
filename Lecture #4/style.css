@@ -1,0 +1,33 @@
+.header {
+    background-color: black;
+    padding-top: 25px;
+    margin: 20px 40px 20px 40px;
+    border-radius: 30px;
+    width: calc(100% -80px);
+    height: 80px;
+
+    
+}
+
+span{
+    color: grey;
+    padding-right: 2%;
+    text-overflow: inherit;
+}
+
+span:hover {
+    color: white;
+    text-
+}
+
+p{
+    font-size: large;
+}
+
+.photo {
+    /* width: 300px;
+    height: 300px; */
+    margin: auto;
+    border-radius: 10% 40% 20% 70%;
+    background: url("https://ae01.alicdn.com/kf/Hb71cc8abc68a421baa5ec7d72e8596bai/Applicable-to-14-17-Bmw-4-series-F32-33-36-420-428-Modified-Small-Surround-Carbon.jpg_Q90.jpg_.webp")
+}
